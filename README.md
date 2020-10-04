@@ -1,5 +1,5 @@
 # fullStack
-A full stack project for an animal shelter
+Develop a website for an animal shelter
 
 •	Designed and implemented a single page application of animal shelter for searching, adding, and updating applications in the system with different privileges
 
